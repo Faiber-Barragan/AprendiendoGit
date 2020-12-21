@@ -1,5 +1,8 @@
 body {
     text-align: center;
-    color: aqua;
-    background-color: blue;
+    color: blue;
+}
+
+.conteiner {
+    background-color: beige;
 }
